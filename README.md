@@ -30,7 +30,7 @@
 
   During this analysis, I was able to :
 
-  - Calculate average daily listening minutes
+  - Examine how long people listen to music     for by calculating their average daily       listening minutes
 
   - Identify top countries, platforms, artists and genres by their listening minutes
 
