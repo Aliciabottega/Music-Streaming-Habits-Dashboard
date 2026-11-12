@@ -30,9 +30,9 @@
 
   During this analysis, I was able to :
 
-  - Examine how long people listen to music for by calculating their average daily listening minutes
+  - Calculate Total Number Of Listeners
 
-  - Identify top countries, platforms, artists and genres by their listening minutes
+  - Identify top and bottom countries, platforms, artists and genres by Total Listeners
 
   - Calculate average skip rate
  
@@ -42,24 +42,24 @@
 
   From the following analysis, I found out :
 
-  - Average daily listening minutes is 139 minutes which is 2 hours and 19 minutes
+  - Total Number Of Listeners are 4,000
 
-  - Top country by listeneing minutes is Japan 
+  - Top country is Japan with 439 listeners while the bottom country is UK with 369 listeners
 
-  - Top Platform by listening minutes is SPOTIFY
+  - Top Platform is SPOTIFY with 1,591 listeners while bottom platform is TIDAL with 221 listeners
  
-  - Top Artist by listening minutes is SZA
+  - Top Artist is SZA with 310 listeners while bottom artist is ARIANA GRANDE with 244 listeners
  
-  - Top Genre by listening minutes is POP
+  - Top Genre is POP with 721 listeners while bottom genre is country with 165 listeners
 
-  - Average skip rate is 28 %
+  - Average skip rate is 2,816 %
  
   - Mood, platform and subscription with the highest skip rate are Workout ( mood ), Amazon music ( platform ) & Free ( subscription )
 
   ### Recommendation
 
-  - Further Analysis should be carried out to understand why Amazon Music & Workout Songs have the highest skip rate
-  - Curating a playlist based on listeners past activity will reduce the skip rate
+  - Further Analysis should be carried out to understand why Amazon Music & Workout mood has the highest skip rate
+  - Curating a playlist based on listeners past activity will reduce the percentage of skip rate
  
 
 
